@@ -1,0 +1,182 @@
+﻿MrrChangeFe,Mrr Change
+DailyRows10dFe,Daily Rows (10d)
+DaysSinceLastUsageFe,Days Since Last Usage
+DailyGBIndexedFe,Daily GB Indexed
+DailyGBIndexed30dFe,Daily GB Indexed (30d)
+TotalNumOfAlertDefinitionsFe,Total Number Of Alert Definitions
+TotalNumOfAlertDefinitions30dFe,Total Number Of Alert Definitions (30d)
+TotalNumOfDashboardsFe,Total Number Of Dashboards
+TotalNumOfDashboards30dFe,Total Number Of Dashboards (30d)
+AvgLoadTimeFe,Avg Load Time
+AvgLoadTime30dFe,Avg Load Time (30d)
+EngAggregationalertsFe,Aggregation Alerts
+EngAggregationalerts30dFe,Aggregation Alerts (30d)
+EngAlertsFe,Alerts
+EngAlerts30dFe,Alerts (30d)
+EngAnyActivityFe,Any Activity 
+EngAnyActivity30dFe,Any Activity (30d)
+EngInsightsGeneralFe,Insights General
+EngInsightsGeneral30dFe,Insights General (30d)
+EngLivetailFe,Livetail
+EngLivetail30dFe,Livetail (30d)
+EngTimelionFe,Timelion
+EngTimelion30dFe,Timelion (30d)
+MaxLoadTimeFe,Max Load Time
+MaxLoadTime30dFe,Max Load Time (30d)
+NumOfExceptionsFe,Num Of Exceptions
+NumOfExceptions30dFe,Num Of Exceptions (30d)
+Percentile10Fe,Percentile 10 
+Percentile1030dFe,(30d)
+Percentile50Fe,Percentile 50 
+Percentile5030dFe,Percentile 50 (30d)
+Percentile80Fe,Percentile 80 
+Percentile8030dFe,Percentile 80 (30d)
+Percentile90Fe,Percentile 90 
+Percentile9030dFe,Percentile 90 (30d)
+TotalNumOfEntriesPerDayFe,Total Num Of Entries Per Day
+TotalNumOfEntriesPerDay30dFe,Total Num Of Entries Per Day (30d)
+MaxQueryTimeFe,Max Query Time
+MaxQueryTime30dFe,Max Query Time (30d)
+NumOfQueriesFe,Num Of Queries
+NumOfQueries30dFe,Num Of Queries (30d)
+AvgQueryTimeFe,Avg Query Time
+AvgQueryTime30dFe,Avg Query Time (30d)
+DailyGbArchivedFe,Daily Gb Archived
+DailyGbArchived30dFe,Daily Gb Archived (30d)
+DailyGbByPlanFe,Daily GbBy Plan
+DailyGbByPlan30dFe,Daily GbBy Plan (30d)
+DailyGbIndexedAllClustersFe,Daily Gb Indexed All Clusters
+DailyGbIndexedAllClusters30dFe,Daily Gb Indexed All Clusters (30d)
+DailyGbIndexedWithSubAccountsFe,Daily Gb Indexed With Sub Accounts
+DailyGbIndexedWithSubAccounts30dFe,Daily Gb Indexed With Sub Accounts (30d)
+DailyGbReceivedFe,Daily Gb Received 
+DailyGbReceived30dFe,Daily Gb Received  (30d)
+DailyGbRecivedWithSubAccountsFe,Daily Gb Recived With Sub Accounts
+DailyGbRecivedWithSubAccounts30dFe,Daily Gb Recived With Sub Accounts (30d)
+DailyNumOfActiveUsersFe,Daily Num Of Active Users
+DailyNumOfActiveUsers30dFe,Daily Num Of Active Users (30d)
+DailyNumOfDocDroppedFe,Daily Num Of Doc Dropped
+DailyNumOfDocDropped30dFe,Daily Num Of Doc Dropped (30d)
+DailyNumOfFailedQueriesFe,Daily Num Of Failed Queries
+DailyNumOfFailedQueries30dFe,DailyNumOfFailedQueriesFe (30d)
+DailyNumOfIncomingLogsFe,Daily Num Of Incoming Logs
+DailyNumOfIncomingLogs30dFe,DailyNumOfIncomingLogsFe (30d)
+DailyNumOfLagsLatenciesFe,Daily Num Of Lags Latencies
+DailyNumOfLagsLatencies30dFe,Daily Num Of Lags Latencies (30d)
+DailyNumOfSuccessSearchesFe,Daily Num Of Success Searches
+DailyNumOfSuccessSearches30dFe,Daily Num Of Success Searches (30d)
+DailyNumOfTimesLogsSuspendedArchivingFe,Daily Num Of Times Logs Suspended Archiving
+DailyNumOfTimesLogsSuspendedArchiving30dFe,Daily Num Of Times Logs Suspended Archiving (30d)
+DailyNumOfTimesLogsSuspendedIndexingFe,Daily Num Of Times Logs Suspended Indexing
+DailyNumOfTimesLogsSuspendedIndexing30dFe,Daily Num Of Times Logs Suspended Indexing (30d)
+DailyParentRemainingGbFe,Daily Parent Remaining Gb
+DailyParentRemainingGb30dFe,Daily Parent Remaining Gb (30d)
+TotalGbUsedFe,Total Gb Used 
+TotalGbUsed30dFe,Total Gb Used (30d)
+TotalNumOfAlertEndpointFe,Total Num Of Alert Endpoint
+TotalNumOfAlertEndpoint30dFe,Total Num Of Alert Endpoint (30d)
+TotalNumOfAlertsOnAggDefinedFe,Tota lNum Of Alerts On Agg Defined
+TotalNumOfAlertsOnAggDefined30dFe,Tota lNum Of Alerts On Agg Defined (30d)
+TotalNumOfDataparsingDefinedFe,Total Num Of Dataparsing Defined 
+TotalNumOfDataparsingDefined30dFe,Total Num Of Dataparsing Defined (30d)
+TotalNumOfOptimizersDefinedFe,Total Num Of Optimizers Defined
+TotalNumOfOptimizersDefined30dFe,Total Num Of Optimizers Defined (30d)
+TotalNumOfSavedSearchesFe,Total Num Of Saved Searches
+TotalNumOfSavedSearches30dFe,Total Num Of Saved Searches (30d)
+TotalNumOfSubAccountsFe,Total Num Of Sub Accounts
+TotalNumOfSubAccounts30dFe,Total Num Of Sub Accounts (30d)
+TotalNumOfTimelessAccountsFe,Total Num Of Timeless Accounts (30d)
+TotalNumOfTimelessAccounts30dFe,Total Num Of Timeless Accounts (30d)
+TotalNumOfTokensDefinedFe,Total Num Of Tokens Defined
+TotalNumOfTokensDefined30dFe,Total Num Of Tokens Defined (30d)
+TotalNumOfUsersFe,Total Num Of Users
+TotalNumOfUsers30dFe,Total Num Of Users (30d)
+TotalNumOfVisualizationsFe,Total Num Of Visualizations
+TotalNumOfVisualizations30dFe,Total Num Of Visualizations (30d)
+TotalNumberOfElkAppsFe,Total Number Of Elk Apps
+TotalNumberOfElkApps30dFe,Total Number Of Elk Apps (30d)
+TotalNumberOfShardsFe,Total Number Of Shards
+TotalNumberOfShards30dFe,Total Number Of Shards (30d)
+ApiAccessEnabledFe,API Access Enabled
+IsSubAccountFe,Is Sub Account
+QueryApiEnabledFe,Query API Enabled
+QueryStatusFe,Query Status
+S3ConfigurationEnabledFe,S3 Configuration Enabled
+SsoConfigurationEnabledFe,SSO Configuration Enabled
+SubExceptionTypeKeyFe,Sub Exception Type Key
+TimeToFirstReplySecondsFe,Time To First Reply
+TimeToLastCloseSecondsFe,Time To Last Close
+TeammateRepliesFe,Team Mate Replies
+TicketsOpenedFe,Tickets Opened
+TicketsOpenedAndClosedFe,Tickets Opened And Closed
+TicketsOpenedAndClosedInSpecialTimeWindowFe,Tickets Opened And Closed (exc.)
+TicketsOpenedInSpecialTimeWindowFe,Tickets Opened (exc.)
+TicketsOpenedInSpecialTimeWindowFlagFe,Tickets Opened (exc. Flag)
+DailyGBIndexedPerAverageFeePaidFe,Daily GB Indexed Per Average Fee Paid
+DailyGBIndexedPerRecentFeePaidFe,Daily GB Indexed Per Recent Fee Paid
+TotalNumOfAlertDefinitionsPerAverageFeePaidFe,Total Num Of Alert Definitions Per Average Fee Paid
+TotalNumOfAlertDefinitionsPerRecentFeePaidFe,Total Num Of Alert Definitions Per Recent Fee Paid
+TotalNumOfDashboardsPerAverageFeePaidFe,Total Num Of Dashboards Per Average Fee Paid
+TotalNumOfDashboardsPerRecentFeePaidFe,Total Num Of Dashboards Per Recent Fee Paid
+MaxQueryTimePerAverageFeePaidFe,Max Query Time Per Average Fee Paid
+MaxQueryTimePerRecentFeePaidFe,Max Query Time Per Recent Fee Paid
+NumOfQueriesPerAverageFeePaidFe,Num Of Queries Per Average Fee Paid
+NumOfQueriesPerRecentFeePaidFe,Num Of Queries Per Recent Fee Paid
+AvgQueryTimePerAverageFeePaidFe,Avg Query Time Per Average Fee Paid
+AvgQueryTimePerRecentFeePaidFe,Avg Query Time Per Recent Fee Paid
+DailyGbArchivedPerAverageFeePaidFe,Daily Gb Archived Per Average Fee Paid
+DailyGbArchivedPerRecentFeePaidFe,Daily Gb Archived Per Recent Fee Paid
+DailyGbByPlanPerAverageFeePaidFe,Daily Gb By Plan Per Average Fee Paid
+DailyGbByPlanPerRecentFeePaidFe,Daily Gb By Plan Per Recent Fee Paid
+DailyGbIndexedAllClustersPerAverageFeePaidFe,Daily Gb Indexed All Clusters Per Average Fee Paid
+DailyGbIndexedAllClustersPerRecentFeePaidFe,Daily Gb Indexed All Clusters Per Recent Fee Paid
+DailyGbIndexedWithSubAccountsPerAverageFeePaidFe,Daily Gb Indexed With Sub Accounts Per Average Fee Paid
+DailyGbIndexedWithSubAccountsPerRecentFeePaidFe,Daily Gb Indexed With Sub Accounts Per Recent Fee Paid
+DailyGbReceivedPerAverageFeePaidFe,Daily Gb Received Per Average Fee Paid
+DailyGbReceivedPerRecentFeePaidFe,Daily Gb Received Per Recent Fee Paid
+DailyGbRecivedWithSubAccountsPerAverageFeePaidFe,Daily Gb Recived With Sub Accounts Per Average Fee Paid
+DailyGbRecivedWithSubAccountsPerRecentFeePaidFe,Daily Gb Recived With Sub Accounts Per Recent Fee Paid
+DailyNumOfActiveUsersPerAverageFeePaidFe,Daily Num Of Active Users Per Average Fee Paid 
+DailyNumOfActiveUsersPerRecentFeePaidFe,Daily Num Of Active Users Per Recent Fee Paid 
+DailyNumOfDocDroppedPerAverageFeePaidFe,Daily Num Of Doc Dropped Per Average Fee Paid
+DailyNumOfDocDroppedPerRecentFeePaidFe,Daily Num Of Doc Dropped Per Recent Fee Paid
+DailyNumOfFailedQueriesPerAverageFeePaidFe,Daily Num Of Failed Queries Per Average Fee Paid
+DailyNumOfFailedQueriesPerRecentFeePaidFe,Daily Num Of Failed Queries Per Recent Fee Paid
+DailyNumOfIncomingLogsPerAverageFeePaidFe,Daily Num Of Incoming Logs Per Average Fee Paid
+DailyNumOfIncomingLogsPerRecentFeePaidFe,Daily Num Of Incoming Logs Per Recent Fee Paid
+DailyNumOfLagsLatenciesPerAverageFeePaidFe,Daily Num Of Lags Latencies Per Average Fee Paid
+DailyNumOfLagsLatenciesPerRecentFeePaidFe,Daily Num Of Lags Latencies Per Recent Fee Paid
+DailyNumOfSuccessSearchesPerAverageFeePaidFe,Daily Num Of Success Searches Per Average Fee Paid
+DailyNumOfSuccessSearchesPerRecentFeePaidFe,Daily Num Of Success Searches Per Recent Fee Paid
+DailyNumOfTimesLogsSuspendedArchivingPerAverageFeePaidFe,Daily Num Of Times Logs Suspended Archiving Per Average Fee Paid
+DailyNumOfTimesLogsSuspendedArchivingPerRecentFeePaidFe,Daily Num Of Times Logs Suspended Archiving Per Recent Fee Paid
+DailyNumOfTimesLogsSuspendedIndexingPerAverageFeePaidFe,Daily Num Of Times Logs Suspended Indexing Per Average Fee Paid
+DailyNumOfTimesLogsSuspendedIndexingPerRecentFeePaidFe,Daily Num Of Times Logs Suspended Indexing Per Recent Fee Paid
+DailyParentRemainingGbPerAverageFeePaidFe,Daily Parent Remaining Gb Per Average Fee Paid
+DailyParentRemainingGbPerRecentFeePaidFe,Daily Parent Remaining Gb Per Recent Fee Paid
+TotalGbUsedPerAverageFeePaidFe,Total Gb Used Per Average Fee Paid
+TotalGbUsedPerRecentFeePaidFe,Total Gb Used Per Recent Fee Paid
+TotalNumOfAlertEndpointPerAverageFeePaidFe,Total Num Of Alert Endpoint Per Average Fee Paid
+TotalNumOfAlertEndpointPerRecentFeePaidFe,Total Num Of Alert Endpoint Per Recent Fee Paid
+TotalNumOfAlertsOnAggDefinedPerAverageFeePaidFe,Total Num Of Alerts On Agg Defined Per Average Fee Paid
+TotalNumOfAlertsOnAggDefinedPerRecentFeePaidFe,Total Num Of Alerts On Agg Defined Per Recent Fee Paid
+TotalNumOfDataparsingDefinedPerAverageFeePaidFe,Total Num Of Dataparsing Defined Per Average Fee Paid
+TotalNumOfDataparsingDefinedPerRecentFeePaidFe,Total Num Of Dataparsing Defined Per Recent Fee Paid
+TotalNumOfOptimizersDefinedPerAverageFeePaidFe,Total Num Of Optimizers Defined Per Average Fee Paid
+TotalNumOfOptimizersDefinedPerRecentFeePaidFe,Total Num Of Optimizers Defined Per Recent Fee Paid
+TotalNumOfSavedSearchesPerAverageFeePaidFe,Total Num Of Saved Searches Per Average Fee Paid
+TotalNumOfSavedSearchesPerRecentFeePaidFe,Total Num Of Saved Searches Per Recent Fee Paid
+TotalNumOfSubAccountsPerAverageFeePaidFe,Total Num Of Sub Accounts Per Average Fee Paid
+TotalNumOfSubAccountsPerRecentFeePaidFe,Total Num Of Sub Accounts Per Recent Fee Paid
+TotalNumOfTimelessAccountsPerAverageFeePaidFe,Total Num Of Timeless Accounts Per Average Fee Paid
+TotalNumOfTimelessAccountsPerRecentFeePaidFe,Total Num Of Timeless Accounts Per Recent Fee Paid
+TotalNumOfTokensDefinedPerAverageFeePaidFe,Total Num Of Tokens Defined Per Average Fee Paid
+TotalNumOfTokensDefinedPerRecentFeePaidFe,Total Num Of Tokens Defined Per Recent Fee Paid
+TotalNumOfUsersPerAverageFeePaidFe,Total Num Of Users Per Average Fee Paid
+TotalNumOfUsersPerRecentFeePaidFe,Total Num Of Users Per Recent Fee Paid
+TotalNumOfVisualizationsPerAverageFeePaidFe,Total Num Of Visualizations Per Average Fee Paid
+TotalNumOfVisualizationsPerRecentFeePaidFe,Total Num Of Visualizations Per Recent Fee Paid
+TotalNumberOfElkAppsPerAverageFeePaidFe,Total Number Of Elk Apps Per Average Fee Paid
+TotalNumberOfElkAppsPerRecentFeePaidFe,Total Number Of Elk Apps Per Recent Fee Paid
+TotalNumberOfShardsPerAverageFeePaidFe,Total Number Of Shards Per Average Fee Paid
+TotalNumberOfShardsPerRecentFeePaidFe,Total Number Of Shards Per Recent Fee Paid
